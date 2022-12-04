@@ -1,5 +1,5 @@
 <script>
-        function exerc1(){
+        function ex1(){
             alert("exercicio 1");
             let numero1 = parseInt(prompt("insira um número"));
             let numero2 = parseInt(prompt("Insira outro número"));
@@ -11,7 +11,9 @@
             }
         }
 
-        function exerc2 (){
+<!---------------------------------->
+
+        function ex2 (){
             alert("exercicio 2");
             alert("Verifica se um número é positivo, negativo ou zero");
             let numero = parseInt(prompt("Insira um número"));
@@ -29,8 +31,9 @@
 
             }
         
+<!---------------------------------->
 
-            function exerc3(){
+            function ex3){
                 alert("exercicio 3");
                 let numero1 = parseInt(prompt("Insira o primeiro número"));
                 let numero2 = parseInt(prompt("Insira o segundo número"));
@@ -46,7 +49,9 @@
                 return(document.write("O terceiro número" + "(" + numero3 + ")" + "é maior que os outros números"))}
             }
 
-            function exerc4(){
+<!---------------------------------->
+
+            function ex4){
                 alert("exercicio 4");
                 alert("Recebe 3 números e soma os dois maiores")
                 let numero1 = parseInt(prompt("Insira o primeiro número"));
@@ -91,7 +96,9 @@
                 }
              }
 
-           function exerc5(){
+<!---------------------------------->
+
+           function ex5){
             alert ("exercicio5");
             alert ("Recebe 6 números e verifica a média aritmética deles");
             
@@ -106,7 +113,9 @@
             return(document.write("A média final é:" + media ))
            }
 
-           function exerc6(){
+<!---------------------------------->
+
+           function ex6){
             alert("exercicio 6")
             alert("Recebe 4 valores e diz qual é o primeiro, o segundo e o maior de todos")
 
@@ -133,7 +142,9 @@
 
            }
 
-           function exerc7(){
+<!---------------------------------->
+
+           function ex7){
             alert("exercicio 7")
             alert("Recebe 6 números inferiores a 72 e soma todos eles e escreve os valores informados")
 
@@ -154,7 +165,9 @@
                 }
             }
 
-            function exerc8(){
+<!---------------------------------->
+
+            function ex8(){
                 alert("exercicio 8")
                 alert("Calcula a média de 4 números e informa se passou no teste ou não")
 
@@ -174,9 +187,9 @@
 
             }
             
+<!---------------------------------->
 
-
-            function exerc9(){
+            function ex9(){
                 alert("exercicio 9")
                 alert("Recebe seu ano de nascimento e informa se você pode ou votar esse ano")
 
@@ -190,7 +203,9 @@
                 }
             }
 
-            function exerc10(){
+<!---------------------------------->
+
+            function ex10(){
                 alert("exercicio 10")
                 alert("Informe seu sexo e sua altura e ele informa seu peso")
 
@@ -210,7 +225,9 @@
 
             }
 
-            function exerc11(){
+<!---------------------------------->
+
+            function ex11(){
                 alert("exercicio 11")
                 alert("Micro calculadora")
 
